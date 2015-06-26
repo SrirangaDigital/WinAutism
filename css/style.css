@@ -1,0 +1,90 @@
+body{
+    font-family: 'Droid Sans', sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+p.small {
+    font-size: 12px;
+}
+
+p.bigger{
+    font-size: 20px;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-family: Vollkorn,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+header .intro-text .name {
+    display: block;
+    text-transform: uppercase;
+    font-family: Vollkorn,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+.navbar {
+    text-transform: uppercase;
+    font-family: Vollkorn,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.raggedright{
+	text-align: right;
+}
+
+.bld{
+	font-weight: bold;
+}
+
+.colored{
+	color: #2C3E50;
+}
+
+.bigger{
+	font-size: 1.5em;
+}
+
+q { quotes: '\201c' '\201d'; }
+q:before { content: open-quote; }
+q:after  { content: close-quote; }
+
+#books p{
+	font-size: 100%;
+}
+
+div.book_title{
+	font-weight: bold;
+	text-align: left;
+	color: #EA8317;
+	border-bottom: 1px solid #CCC;
+	margin-bottom: 1em;
+	margin-top: 2em;
+}
+
+.insertbar{
+	border-left: 1px dotted #CCC;
+	border-right: 1px dotted #CCC;
+}
+.btrule{
+	border-bottom: 1px solid #000;
+}
+
+#about_krishna{
+	margin-top: 2em;
+}
