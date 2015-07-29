@@ -88,3 +88,6 @@ div.book_title{
 #about_krishna{
 	margin-top: 2em;
 }
+.imgborder{
+	border: 1px solid #000;
+}
