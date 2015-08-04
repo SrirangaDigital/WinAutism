@@ -81,6 +81,12 @@ div.book_title{
 	border-left: 1px dotted #CCC;
 	border-right: 1px dotted #CCC;
 }
+.insertrightbar{
+	border-right: 1px dotted #CCC;
+}
+.insertleftbar{
+	border-left: 1px dotted #CCC;
+}
 .btrule{
 	border-bottom: 1px solid #000;
 }
