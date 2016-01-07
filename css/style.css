@@ -98,8 +98,11 @@ div.book_title{
 	border: 1px solid #000;
 }
 .modal-body p{
-
 	text-align: justify;
+}
+.modal-body ol li{
+	font-size: 1.15em;
+	text-align: left;
 }
 .myimage{
 	border: 2px solid #000;
